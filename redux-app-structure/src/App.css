@@ -1,0 +1,7 @@
+.buttons_div{
+    display: flex;
+    flex-direction: row;
+}
+.main_div{
+    align-content:center;
+}
